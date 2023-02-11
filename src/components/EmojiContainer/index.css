@@ -1,0 +1,16 @@
+.emoji-size {
+  height: 70px;
+  width: 70px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+.para {
+  color: black;
+  font-size: 15px;
+  text-align: center;
+  font-family: roboto;
+  font-weight: bold;
+}
